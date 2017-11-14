@@ -1,5 +1,5 @@
 #NoTrayIcon
-#Region ;**** Directives created by AutoIt3Wrapper_GUI ***1 *
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ***12 *
 #AutoIt3Wrapper_Compile_Both=y
 #AutoIt3Wrapper_Res_requestedExecutionLevel=requireAdministrator
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
